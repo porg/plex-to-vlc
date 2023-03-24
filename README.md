@@ -29,6 +29,7 @@
     - Move it to `~/Library/Application Support/Google/Chrome/NativeMessagingHosts/`. **Notes:**
       - Finder → Menu → Go → Go to folder… (`⌘ ⇧ G`) → Paste the path with the whitespace unescaped (as in the code snippet above) or else the path is not resolved!
       - If you didn't move the App to `/Applications` in step 2, you need to update the path in the json file.
+5. Open Chrome → Install the extension from this [Google Chrome Web Store link](https://chrome.google.com/webstore/detail/plex-to-vlc/admjkihehbkklbidlcpmjcaplbkngeed).
 
 ## Usage
 
